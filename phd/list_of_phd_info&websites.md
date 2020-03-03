@@ -36,3 +36,19 @@
 ## Norway
 ### University vacancy links
 [Nord University PhD in Business](https://www.nord.no/en/about/faculties-and-centres/business-school/research/phd-business/Pages/Phd-business.aspx#&acd=9f70b07f-eb38-31e1-0e7a-6ed23f873f47) and its [vacancies](https://www.nord.no/en/about/jobs)
+
+[NHH vacant positions](https://www.nhh.no/en/about-nhh/vacant-positions/), [NHH ADMISSION TO THE PHD PROGRAMME](https://www.nhh.no/en/study-programmes/phd-programme-at-nhh/admission/) --> HIGH SALARY
+> The application deadline for our PhD Research Scholarships is normally set in January with a start date in August the same year.
+
+## UK
+[Uni East Anglia PhD info](https://www.uea.ac.uk/economics/phd-studentships)
+[Warwick PhD](https://www.wbs.ac.uk/courses/doctoral/phd/apply/), usually open on 11th January
+
+Some interesting projects by Uni Bath:
+* [Careers and climate change](https://www.findaphd.com/phds/project/careers-and-climate-change/?p115242)
+* [Developing a dynamic population model of disease and accompanying open source software tool](https://www.findaphd.com/phds/project/developing-a-dynamic-population-model-of-disease-and-accompanying-open-source-software-tool/?p115201)
+
+[Spme projects by Data Analytics & Society](https://datacdt.org/projects/), deadline 14th April
+
+## Netherlands
+[Assistant in Uni Ghent](https://academicpositions.com/ad/ghent-university/2020/assistant-14306-department-of-economics/141411), Closing on Mar 10
