@@ -38,6 +38,7 @@
 [Nord University PhD in Business](https://www.nord.no/en/about/faculties-and-centres/business-school/research/phd-business/Pages/Phd-business.aspx#&acd=9f70b07f-eb38-31e1-0e7a-6ed23f873f47) and its [vacancies](https://www.nord.no/en/about/jobs)
 
 [NHH vacant positions](https://www.nhh.no/en/about-nhh/vacant-positions/), [NHH ADMISSION TO THE PHD PROGRAMME](https://www.nhh.no/en/study-programmes/phd-programme-at-nhh/admission/) --> HIGH SALARY
+([The original ad post of this position](https://www.findaphd.com/phds/programme/phd-programme-openings-at-nhh-norwegian-school-of-economics-economics/?p2325))
 > The application deadline for our PhD Research Scholarships is normally set in January with a start date in August the same year.
 
 ## UK
