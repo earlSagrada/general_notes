@@ -15,3 +15,5 @@
 [POL CAMPOS-MERCADE](https://sites.google.com/site/polcamposmercade)
 
 [Marcos Castillo](linkedin.com/in/marcos-castillo-bastos/)
+
+[Jonas Cedergren](https://www.linkedin.com/in/jonas-cedergren-169a7047/)
